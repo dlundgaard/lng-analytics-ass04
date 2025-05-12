@@ -1,0 +1,7 @@
+venv/
+models/*
+*.pdf
+*.ipynb
+throwaway.py
+__pycache__/
+.gitattributes
