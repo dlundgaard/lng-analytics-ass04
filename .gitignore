@@ -1,5 +1,5 @@
 venv/
-models/
+models/*.pickle
 *.pdf
 *.zip
 *.ipynb
