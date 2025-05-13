@@ -1,6 +1,7 @@
 venv/
 models/*
 *.pdf
+*.zip
 *.ipynb
 throwaway.py
 __pycache__/
