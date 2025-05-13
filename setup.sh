@@ -3,6 +3,7 @@
 python -m venv venv
 source venv/bin/activate
 pip install -U -r requirements.txt
+deactivate
 
 KALEIDO_FAULTY_SCRIPT_PATH=venv/lib/python3.12/site-packages/kaleido/executable/kaleido
 sed -i 's/cd $DIR/cd "$DIR"/g' $KALEIDO_FAULTY_SCRIPT_PATH

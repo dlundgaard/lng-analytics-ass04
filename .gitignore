@@ -5,4 +5,3 @@ models/*.pickle
 *.ipynb
 throwaway.py
 __pycache__/
-.gitattributes
